@@ -17,5 +17,5 @@
 Deseja solicitar meu trabalho? Pode me contatar pelos seguintes sites:
 <div>
   <a href="https://www.linkedin.com/in/luan-girotto-602b56239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:luan.girotto.am@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:luan.girotto.am@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
