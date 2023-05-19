@@ -6,7 +6,7 @@
 - 👯 Adoraria achar profissionais dispostos a colaborar em projetos de Desenvolvimento de Jogos
 - 🤔 Procuro formas e ferramentas para aprender banco de dados orientado a objetos
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LnGtt&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LnGtt&show_icons=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LnGtt&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
