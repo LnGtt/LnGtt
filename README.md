@@ -6,8 +6,8 @@
 - 👯 Adoraria achar profissionais dispostos a colaborar em projetos de Desenvolvimento de Jogos
 - 🤔 Procuro formas e ferramentas para aprender banco de dados orientado a objetos
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LnGtt&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LnGtt&layout=compact&theme=cobalt&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LnGtt&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LnGtt&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="48" height="48" src="https://img.icons8.com/color/48/delphi-ide.png" alt="delphi-ide"/>
